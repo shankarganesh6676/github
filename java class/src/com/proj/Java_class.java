@@ -6,7 +6,7 @@ public class Java_class {
 	public void java1() {
 		int d=1;
 		String g="java";
-		System.out.println(d);
+		System.out.println(d)
 		System.out.println(g);
 
 	}
